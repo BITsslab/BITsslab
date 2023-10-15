@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://cs.bit.edu.cn/'>北京理工大学计算机学院</a>. 北京理工大学中关村校区中心教学楼1305A. liyuan.pan AT bit.edu.cn
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-潘利源，博士，副教授，博士生导师。 2021年于澳大利亚国立大学获得哲学博士学位， 2021年至2022于澳大利亚国立大学从事博士后研究。2022年6月加入北京理工大学计算机学院。 2022年入选北京市青年人才托举工程。 2023年入选国家级青年人才计划，同年负责国家自然科学青年基金。在计算机视觉与机器学习顶级国际会议/期刊ICCV, CVPR, TPAMI, NeurIPS等发表多篇论文。主要从事视觉和语言、场景理解和新型传感器方向的研究。
+潘利源，博士，副教授，博士生导师。 2021年于澳大利亚国立大学获得哲学博士学位， 2021年至2022于澳大利亚国立大学从事博士后研究。2022年6月加入北京理工大学计算机学院。 2022年入选北京市青年人才托举工程。 2023年负责国家自然科学青年基金。在计算机视觉与机器学习顶级国际会议/期刊ICCV, CVPR, TPAMI, NeurIPS等发表多篇论文。主要从事视觉和语言、场景理解和新型传感器方向的研究。
 
 招生计划：每年招收博士生2～3人，硕士研究生2人。 欢迎有志于视觉与语言、机器学习、人工智能研究的的同学们加入！
 
