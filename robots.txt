@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://BITsslab.github.io/sitemap.xml
+Sitemap: https://bitsslab.github.io/sitemap.xml
