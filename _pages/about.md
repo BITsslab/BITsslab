@@ -13,10 +13,10 @@ profile:
     <p>北京理工大学中关村校区</p>
     <p>liyuan.pan AT bit.edu.cn</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 潘利源，博士，副教授，博士生导师。 2021年于澳大利亚国立大学获得哲学博士学位， 2021年至2022于澳大利亚国立大学从事博士后研究。2022年6月加入北京理工大学计算机学院。 2022年入选北京市青年人才托举工程。 2023年负责国家自然科学青年基金。在计算机视觉与机器学习顶级国际会议/期刊ICCV, CVPR, TPAMI, NeurIPS等发表多篇论文。主要从事视觉和语言、场景理解和新型传感器方向的研究。
