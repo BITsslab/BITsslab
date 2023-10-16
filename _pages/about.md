@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cs.bit.edu.cn/'>北京理工大学计算机学院</a>. 北京理工大学中关村校区中心教学楼1305A. liyuan.pan AT bit.edu.cn
+subtitle: <a href='https://cs.bit.edu.cn/'>北京理工大学计算机学院</a>.  
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>555 中心教学楼1305A.</p>
+    <p>123 北京理工大学中关村校区</p>
+    <p>liyuan.pan AT bit.edu.cn</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
