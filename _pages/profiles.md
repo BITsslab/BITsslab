@@ -17,4 +17,7 @@ profiles:
       <p>中心教学楼1305A</p>
       <p>北京理工大学中关村校区</p>
       <p>liyuan.pan AT bit.edu.cn</p>
+
+  - align: left
+    content: about_students.md
 ---
