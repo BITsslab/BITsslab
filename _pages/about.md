@@ -23,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
 
 **招生计划**：每年招收博士生2～3人，硕士研究生2人。 
 
-欢迎有志于视觉与语言、机器学习、人工智能研究的的同学们加入！
+欢迎有志于视觉与语言、机器学习、人工智能研究的的同学们加入！ :raised_hands:
 <div style='display: none'>
 Dr. Liyuan Pan obtained her Ph.D. degeree from the Australian National University at 2021. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
