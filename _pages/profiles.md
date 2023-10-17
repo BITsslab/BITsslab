@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: members of bit seven space lab (bitsslab)
 nav: true
 nav_order: 6
 
