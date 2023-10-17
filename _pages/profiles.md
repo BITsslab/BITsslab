@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: prof_pic.jpg
-    content: about.md
+    content: about_liyuan_pan.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>中心教学楼1305A</p>
