@@ -6,7 +6,7 @@ subtitle: <a href='https://cs.bit.edu.cn/'>北京理工大学计算机学院</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: DSC02665.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>中心教学楼1305A</p>
