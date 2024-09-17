@@ -4,7 +4,7 @@
 
 2023: Hao Yang, Enqi Liu;
 
-2024: Hao Zhuang, Kailong Yu, Yudong Ha;
+2024: Hao Zhuang, Kailong Yu, Yudong Han;
 
 Xin Duan, Zhaoyang Hai (Co-supervision with Dr. Xiabi Liu)
 
