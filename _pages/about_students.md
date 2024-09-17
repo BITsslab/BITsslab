@@ -10,7 +10,7 @@ Xin Duan, Zhaoyang Hai (Co-supervision with Dr. Xiabi Liu)
 
 硕士生：
 
-2022: Ruikun Zhang, Zonglin Yang;
+2023: Ruikun Zhang, Zonglin Yang;
 
 2024: Jingtao Dong
 
